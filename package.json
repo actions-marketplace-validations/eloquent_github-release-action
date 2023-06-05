@@ -20,7 +20,7 @@
     "escape-string-regexp": "^5.0.0",
     "file-url": "^4.0.0",
     "jest": "^29.0.1",
-    "jest-extended": "^3.0.1",
+    "jest-extended": "^4.0.0",
     "jest-mock-process": "^2.0.0",
     "jest-puppeteer": "^8.0.5",
     "octokit": "^2.0.4",
